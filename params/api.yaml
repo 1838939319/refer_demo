@@ -1,0 +1,14 @@
+/api/oneMap/getEventRAT:
+  data: 测试
+  header: ''
+  method: post
+  number: 1.0
+  result: ''
+  url: /api/oneMap/getEventRAT
+/api/oneMap/getHotSpotIssueData:
+  data: 1.0
+  header: ''
+  method: post
+  number: 2.0
+  result: ''
+  url: /api/oneMap/getHotSpotIssueData
